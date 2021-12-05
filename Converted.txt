@@ -1,0 +1,128 @@
+group,Undefined
+AMC.uk,AMC,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/26011.m3u8?checkedby:iptvcat.com
+ATV,ATV,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/38407.m3u8?checkedby:iptvcat.com
+AXN.bg,AXN,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/38406.m3u8?checkedby:iptvcat.com
+Discovery.uk,DISCOVERY CHANNEL,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/22899.m3u8?checkedby:iptvcat.com
+Disney.uk,Disney Channel,http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/31317?checkedby:iptvcat.com
+Duna.hu,Duna HD,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/38388.m3u8?checkedby:iptvcat.com
+Duna2.hu,Duna World HD,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/38387.m3u8?checkedby:iptvcat.com
+Fem3.hu,FEM 3,http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/31307?checkedby:iptvcat.com
+FilmPlus.cz,Film +,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/38383.m3u8?checkedby:iptvcat.com
+FilmboxPremium.cz,FilmBox Premium,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/8532.m3u8?checkedby:iptvcat.com
+galaxy,Galaxy,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/38378.m3u8?checkedby:iptvcat.com
+HBO1.nl,HBO 1,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/8534.m3u8?checkedby:iptvcat.com
+HBO2.cz,HBO 2,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/8533.m3u8?checkedby:iptvcat.com
+HBOComedy.cz,HBO 3,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/22883.m3u8?checkedby:iptvcat.com
+History.uk,History,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/38377.m3u8?checkedby:iptvcat.com
+MoziPlus.hu,MOZI,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/8530.m3u8?checkedby:iptvcat.com
+NGCHD.uk,Nat Geo HD,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/38367.m3u8?checkedby:iptvcat.com
+Paramount.uk,Paramount Channel,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/38365.m3u8?checkedby:iptvcat.com
+prime-md,Prime,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/38364.m3u8?checkedby:iptvcat.com
+RTL.de,RTL,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/38363.m3u8?checkedby:iptvcat.com
+RTLKlub.hu,RTL Klub HD,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/38361.m3u8?checkedby:iptvcat.com
+tv2.hu,TV2 HD,http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/31303?checkedby:iptvcat.com
+Viasat3.hu,Viasat 3,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/8536.m3u8?checkedby:iptvcat.com
+VIASAT6.hu,Viasat 6,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/8535.m3u8?checkedby:iptvcat.com
+ext,3SAT HD (LO),http://103.194.169.171:8282/DE:3SAT_HD_lo/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+AnixeHD.de,ANIXE,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1006?checkedby:iptvcat.com
+ext,ARD Alpha FHD,http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/23675?checkedby:iptvcat.com
+ext,ATV HD (HI),http://103.194.169.171:8282/DE:ATV_HD_hi/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+AXN.it,AXN HD,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/1535.m3u8?checkedby:iptvcat.com
+AnimalPlanet.uk,Animal Planet HD,http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/145.ts?checkedby:iptvcat.com
+ext,Anixe HD (HI),http://103.194.169.171:8282/DE:ANIXE_HD_hi/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+ext,B JACKIE CHAN,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1108?checkedby:iptvcat.com
+ext,CINE MAX FAST & FURIOUS,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1131?checkedby:iptvcat.com
+ext,Cinedome Cinema HD+,http://iptvvi.com:80/Kratz/XhcpDpXsndad/124549?checkedby:iptvcat.com
+ext,Cinedome Animation HD,http://iptvvi.com:80/Kratz/XhcpDpXsndad/124548?checkedby:iptvcat.com
+ext,Cinedome Action HD+,http://iptvvi.com:80/Kratz/XhcpDpXsndad/124554?checkedby:iptvcat.com
+ext,Cinedome 007 HD+,http://iptvvi.com:80/Kratz/XhcpDpXsndad/124550?checkedby:iptvcat.com
+ext,Cinedome Familie HD+,http://iptvvi.com:80/Kratz/XhcpDpXsndad/124552?checkedby:iptvcat.com
+DasErste.de,DAS ERSTE HD (HEVC),http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/30325?checkedby:iptvcat.com
+ext,DISCOVERY CHANNEL HD +,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1073?checkedby:iptvcat.com
+DisneyCinemagic.de,DISNEY CINEMAGIC FHD,http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/195566?checkedby:iptvcat.com
+ext,Deep House District,http://103.194.169.171:8282/DeepHouse_District/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+DeLuxeMusic.de,Deluxe Music HD (HEVC),http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10146.ts?checkedby:iptvcat.com
+Discovery.uk,Discovery Channel HD,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/9765.m3u8?checkedby:iptvcat.com
+ext,Discovery HD (HI),http://103.194.169.171:8282/DE_VIP:Discovery_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+Disney.uk,Disney Channel,http://iptvvi.com:80/Kratz/XhcpDpXsndad/6420?checkedby:iptvcat.com
+Disney.uk,Disney Channel HD (HEVC),http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10148.ts?checkedby:iptvcat.com
+DisneyCinemagic.de,Disney Cinemagic HD,http://103.194.169.171:8282/DE_Disney_Cinemagic_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+ext,EAGLE CINEMA ANIMATION,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1124?checkedby:iptvcat.com
+ext,Geo HD (HI),http://103.194.169.171:8282/DE:Geo_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+HistoryHD.eur,HISTORY CHANNEL HD,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1074?checkedby:iptvcat.com
+ext,HT SELECT 5 (THRILLER),http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1142?checkedby:iptvcat.com
+ext,HYPER CINEMA 1,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1153?checkedby:iptvcat.com
+ext,HYPER CINEMA 2,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1154?checkedby:iptvcat.com
+ext,HYPER CINEMA 3,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1155?checkedby:iptvcat.com
+ext,HYPER CINEMA 4,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1156?checkedby:iptvcat.com
+ext,HYPER CINEMA 5,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1157?checkedby:iptvcat.com
+ext,HYPER CINEMA 6,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1158?checkedby:iptvcat.com
+ext,HYPER CINEMA 8,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1160?checkedby:iptvcat.com
+ext,HYPER CINEMA 9,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1161?checkedby:iptvcat.com
+ext,HYPER CINEMA 7,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1159?checkedby:iptvcat.com
+History.uk,History Channel,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/1844.m3u8?checkedby:iptvcat.com
+HistoryHD.eur,History Channel HD,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/9767.m3u8?checkedby:iptvcat.com
+History.uk,History Channel HD+,http://iptvvi.com:80/Kratz/XhcpDpXsndad/107978?checkedby:iptvcat.com
+History.uk,History HD (HEVC),http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10155.ts?checkedby:iptvcat.com
+ext,Hyper Cinema 4K HD,http://iptvvi.com:80/Kratz/XhcpDpXsndad/124555?checkedby:iptvcat.com
+ext,Hyper Cinema Action HD,http://iptvvi.com:80/Kratz/XhcpDpXsndad/124556?checkedby:iptvcat.com
+ext,KABEL1 HD (HI),http://103.194.169.171:8282/DE:KABEL_1_HD_hi/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+Kabel.de,Kabel 1 HD (HEVC),http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10157.ts?checkedby:iptvcat.com
+MTV.uk,MTV HD,http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/195383?checkedby:iptvcat.com
+MTV.uk,MTV HD (HEVC),http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10159.ts?checkedby:iptvcat.com
+ext,NAT GEO WILD HD +,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1077?checkedby:iptvcat.com
+ext,NATIONAL GEOGRAHIC HD,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1078?checkedby:iptvcat.com
+ext,Nat Geo HD (HI),http://103.194.169.171:8282/DE:National_Geographic_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+NatGeoWild.uk,Nat Geo Wild HD,http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/265.ts?checkedby:iptvcat.com
+Pro7.de,PRO 7,http://iptv.ndasat.com:88/930874714182491/930874714182491/259?checkedby:iptvcat.com
+ext,PRO 7 HD +,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/952?checkedby:iptvcat.com
+ext,PRO 7 MAXX HD +,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/973?checkedby:iptvcat.com
+ext,PRO7HD (HI),http://103.194.169.171:8282/DE:ProSieben_HD_hi/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+ext,Pro 7 UHD,http://103.194.169.171:8282/DE_PRO7SAT1_4K/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+ext,ProSiebenSat.1 UHD,http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/68047.ts?checkedby:iptvcat.com
+RTL.de,RTL,http://iptv.ndasat.com:88/930874714182491/930874714182491/252?checkedby:iptvcat.com
+RTL2.de,RTL 2 HD,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/974?checkedby:iptvcat.com
+RTL2.de,RTL II HD (HEVC),http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10112.ts?checkedby:iptvcat.com
+ext,RTL2 HD (HI),http://103.194.169.171:8282/DERTL2_HD_hi/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+Sat1.de,SAT.1 FHD (HEVC),http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/30260?checkedby:iptvcat.com
+Sat1Gold.de,SAT.1 GOLD FHD,http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/195338?checkedby:iptvcat.com
+ext,SAT.1 GOLD HD +,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/970?checkedby:iptvcat.com
+Sat1.de,SAT.1 HD (HEVC),http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10114.ts?checkedby:iptvcat.com
+Sixx.de,SIXX HD,http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/40.ts?checkedby:iptvcat.com
+ntv.de,n-tv HD (HEVC),http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10160.ts?checkedby:iptvcat.com
+ZDF.de,ZDF,http://iptv.ndasat.com:88/930874714182491/930874714182491/261?checkedby:iptvcat.com
+ZDF.de,ZDF FHD*,http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/111688?checkedby:iptvcat.com
+ext,Warner Bross Film HD,http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/1584.m3u8?checkedby:iptvcat.com
+ext,WarnerTV Film HD (HEVC),http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10138.ts?checkedby:iptvcat.com
+Universal.uk,UNIVERSAL CHANNEL,http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/1109?checkedby:iptvcat.com
+UHD1.de,UHD1,http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/9042.ts?checkedby:iptvcat.com
+ext,Universal TV HD (HEVC),http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10140.ts?checkedby:iptvcat.com
+ext,VOX HD (HI),http://103.194.169.171:8282/DE:VOX_HD_hi/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+ext,Sky Select Premiere 02 4K (multiaudio),http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60108.m3u8?checkedby:iptvcat.com
+ext,Sky Select Premiere 04 4K (multiaudio),http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60106.m3u8?checkedby:iptvcat.com
+ext,Sky Select Premiere 05 4K (multiaudio),http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60105.m3u8?checkedby:iptvcat.com
+ext,Sky Select Premiere 07 4K (multiaudio),http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60103.m3u8?checkedby:iptvcat.com
+ext,Sky Select Premiere 12 4K (multiaudio),http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60098.m3u8?checkedby:iptvcat.com
+Digi4K.ro,DIGI 4K,http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/290234?checkedby:iptvcat.com
+ext,Antena 1 4K,http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/290125?checkedby:iptvcat.com
+ext,Kanal D 4K,http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/290120?checkedby:iptvcat.com
+ext,Pro TV 4K,http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/290108?checkedby:iptvcat.com
+ext,RAI 4K,http://103.194.169.171:8282/IT:RAI4K/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+ext,Travel XP 4K,http://103.194.169.171:8282/DE_FASHION4K/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+ext,Ultra Cinema HD 4K,http://103.194.169.171:8282/RU:Ultra_Cinema_4K/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+group,Religious
+Bonumtv.hu,Bonum TV,https://stream.y5.hu/stream/stream_bonum/stream.m3u8?checkedby:iptvcat.com
+group,Music
+ext,ONE MUSIC TV,http://103.194.169.171:8282/DE_ONE_MUSIC_TV/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+group,ITALY
+ext,20 Mediaset Italia HD,http://103.194.169.171:8282/IT:20Mediaset_Italia_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+Canal5HD.mx,Canal 5 HD,http://103.194.169.171:8282/IT:Canal_5_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+ext,Italia 1 HD (HI),http://103.194.169.171:8282/IT:italia1_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+paramount,Paramount Chanel,http://103.194.169.171:8282/IT_PARAMOUNT_NETWORK_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+RealTime.it,Real Time HD,http://103.194.169.171:8282/IT:Realtime_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+ext,Rete 4 HD (HI),http://103.194.169.171:8282/IT:Rete4_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+TV2000.it,TV 2000,http://103.194.169.171:8282/IT:TV2000/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+tv8-lt,TV8,http://103.194.169.171:8282/IT:TV8/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+group,Sport
+ext,Eurosport 1 4K,http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/290151?checkedby:iptvcat.com
+
